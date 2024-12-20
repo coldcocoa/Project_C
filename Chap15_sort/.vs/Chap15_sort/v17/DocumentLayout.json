@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\Sort_Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\Sort_Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort_Bubble.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\Sort_Bubble.cpp",
+              "RelativeDocumentMoniker": "Chap15_sort\\Sort_Bubble.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\Sort_Bubble.cpp",
+              "RelativeToolTip": "Chap15_sort\\Sort_Bubble.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T08:10:15.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

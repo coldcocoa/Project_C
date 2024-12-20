@@ -15,25 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HellowWorld.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Scanf.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="AnotherLocalVal.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="RecursiveFactorial.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="StartEndString.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayNameIsPointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CallByValueSwap.c">
+    <ClCompile Include="Sort_Bubble.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

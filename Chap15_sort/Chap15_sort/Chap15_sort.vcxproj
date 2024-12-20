@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4c82d6d8-05de-47eb-8e12-ab3516f27154}</ProjectGuid>
-    <RootNamespace>Chap1</RootNamespace>
+    <ProjectGuid>{8da5b8fe-0de5-4ff3-8f3c-533705eee8cf}</ProjectGuid>
+    <RootNamespace>Chap15sort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,13 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AnotherLocalVal.c" />
-    <ClCompile Include="ArrayNameIsPointer.c" />
-    <ClCompile Include="CallByValueSwap.c" />
-    <ClCompile Include="HellowWorld.c" />
-    <ClCompile Include="RecursiveFactorial.c" />
-    <ClCompile Include="Scanf.c" />
-    <ClCompile Include="StartEndString.c" />
+    <ClCompile Include="Sort_Bubble.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
