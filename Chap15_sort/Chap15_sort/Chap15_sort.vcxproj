@@ -127,7 +127,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Sort_Bubble.cpp" />
+    <ClCompile Include="areaArith.c" />
+    <ClCompile Include="basicArith.c" />
+    <ClCompile Include="EnumTypeTone.c" />
+    <ClCompile Include="FirstFileRead.c" />
+    <ClCompile Include="FirstFileWrite.c" />
+    <ClCompile Include="func.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="num.c" />
+    <ClCompile Include="ReadStringFault2.c" />
+    <ClCompile Include="roundArith.c" />
+    <ClCompile Include="SimpleOneFile.c" />
+    <ClCompile Include="StringCompCase.c" />
+    <ClCompile Include="StringCopyCase.C" />
+    <ClCompile Include="Structlmportant.c" />
+    <ClCompile Include="StructMemArrCopy.c" />
+    <ClCompile Include="TelephoneInfo.c" />
+    <ClCompile Include="TextCharFileCopy.c" />
+    <ClCompile Include="TwoPointDistance.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="areaArith.h" />
+    <ClInclude Include="basicArith.h" />
+    <ClInclude Include="roundArith.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

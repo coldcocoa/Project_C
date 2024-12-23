@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClCompile Include="AnotherLocalVal.c" />
     <ClCompile Include="ArrayNameIsPointer.c" />
-    <ClCompile Include="CallByValueSwap.c" />
     <ClCompile Include="HellowWorld.c" />
     <ClCompile Include="RecursiveFactorial.c" />
     <ClCompile Include="Scanf.c" />

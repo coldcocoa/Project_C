@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\Sort_Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\Sort_Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\roundArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\roundArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\roundArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\roundArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\areaArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\areaArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\areaArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\areaArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\basicArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\basicArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\basicArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA5B8FE-0DE5-4FF3-8F3C-533705EEE8CF}|Chap15_sort\\Chap15_sort.vcxproj|solutionrelative:Chap15_sort\\basicArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sort_Bubble.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\Sort_Bubble.cpp",
-              "RelativeDocumentMoniker": "Chap15_sort\\Sort_Bubble.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\Sort_Bubble.cpp",
-              "RelativeToolTip": "Chap15_sort\\Sort_Bubble.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-20T08:10:15.895Z",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\main.c",
+              "RelativeDocumentMoniker": "Chap15_sort\\main.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\main.c",
+              "RelativeToolTip": "Chap15_sort\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:13:08.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "roundArith.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\roundArith.c",
+              "RelativeDocumentMoniker": "Chap15_sort\\roundArith.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\roundArith.c",
+              "RelativeToolTip": "Chap15_sort\\roundArith.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:11:30.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "roundArith.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\roundArith.h",
+              "RelativeDocumentMoniker": "Chap15_sort\\roundArith.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\roundArith.h",
+              "RelativeToolTip": "Chap15_sort\\roundArith.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T09:10:39.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "areaArith.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\areaArith.h",
+              "RelativeDocumentMoniker": "Chap15_sort\\areaArith.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\areaArith.h",
+              "RelativeToolTip": "Chap15_sort\\areaArith.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T09:09:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "areaArith.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\areaArith.c",
+              "RelativeDocumentMoniker": "Chap15_sort\\areaArith.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\areaArith.c",
+              "RelativeToolTip": "Chap15_sort\\areaArith.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:07:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "basicArith.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\basicArith.c",
+              "RelativeDocumentMoniker": "Chap15_sort\\basicArith.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\basicArith.c",
+              "RelativeToolTip": "Chap15_sort\\basicArith.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:07:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "basicArith.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\basicArith.h",
+              "RelativeDocumentMoniker": "Chap15_sort\\basicArith.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap15_sort\\Chap15_sort\\basicArith.h",
+              "RelativeToolTip": "Chap15_sort\\basicArith.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T09:05:40.015Z",
               "EditorCaption": ""
             }
           ]

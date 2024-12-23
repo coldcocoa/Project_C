@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\CallByValueSwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\CallByValueSwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\HellowWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\HellowWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\AnotherLocalVal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\AnotherLocalVal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\ArrayNameIsPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\ArrayNameIsPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\HellowWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\HellowWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\RecursiveFactorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\RecursiveFactorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\StartEndString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\StartEndString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\Scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\Scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\StartEndString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\StartEndString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\AnotherLocalVal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\AnotherLocalVal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\RecursiveFactorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C82D6D8-05DE-47EB-8E12-AB3516F27154}|Chap1\\Chap1.vcxproj|solutionrelative:Chap1\\RecursiveFactorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CallByValueSwap.c",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\CallByValueSwap.c",
-              "RelativeDocumentMoniker": "Chap1\\CallByValueSwap.c",
-              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\CallByValueSwap.c",
-              "RelativeToolTip": "Chap1\\CallByValueSwap.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-20T07:40:57.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArrayNameIsPointer.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\ArrayNameIsPointer.c",
               "RelativeDocumentMoniker": "Chap1\\ArrayNameIsPointer.c",
@@ -72,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "StartEndString.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\StartEndString.c",
               "RelativeDocumentMoniker": "Chap1\\StartEndString.c",
@@ -85,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RecursiveFactorial.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\RecursiveFactorial.c",
               "RelativeDocumentMoniker": "Chap1\\RecursiveFactorial.c",
@@ -98,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AnotherLocalVal.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\AnotherLocalVal.c",
               "RelativeDocumentMoniker": "Chap1\\AnotherLocalVal.c",
@@ -124,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HellowWorld.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\HellowWorld.c",
               "RelativeDocumentMoniker": "Chap1\\HellowWorld.c",
               "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Chap1\\Chap1\\HellowWorld.c",
               "RelativeToolTip": "Chap1\\HellowWorld.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-18T08:34:00.967Z",
               "EditorCaption": ""

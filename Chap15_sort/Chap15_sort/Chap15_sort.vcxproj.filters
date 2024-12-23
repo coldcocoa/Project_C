@@ -15,8 +15,70 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sort_Bubble.cpp">
+    <ClCompile Include="StringCopyCase.C">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StringCompCase.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoPointDistance.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TelephoneInfo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructMemArrCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Structlmportant.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EnumTypeTone.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstFileWrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstFileRead.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TextCharFileCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadStringFault2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleOneFile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="basicArith.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="areaArith.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="roundArith.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="basicArith.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="areaArith.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="roundArith.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
