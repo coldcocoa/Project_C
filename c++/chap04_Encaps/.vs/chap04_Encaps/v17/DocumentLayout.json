@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\chap04_Encaps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6767611-82E1-4922-8F8C-246C5191E75D}|chap04_Encaps\\chap04_Encaps.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\chap04_Encaps\\chap04_Encaps\\Constructor1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6767611-82E1-4922-8F8C-246C5191E75D}|chap04_Encaps\\chap04_Encaps.vcxproj|solutionrelative:chap04_Encaps\\Constructor1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6767611-82E1-4922-8F8C-246C5191E75D}|chap04_Encaps\\chap04_Encaps.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\chap04_Encaps\\chap04_Encaps\\Encaps1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6767611-82E1-4922-8F8C-246C5191E75D}|chap04_Encaps\\chap04_Encaps.vcxproj|solutionrelative:chap04_Encaps\\Encaps1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constructor1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\chap04_Encaps\\chap04_Encaps\\Constructor1.cpp",
+              "RelativeDocumentMoniker": "chap04_Encaps\\Constructor1.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\chap04_Encaps\\chap04_Encaps\\Constructor1.cpp",
+              "RelativeToolTip": "chap04_Encaps\\Constructor1.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T08:54:09.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encaps1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\chap04_Encaps\\chap04_Encaps\\Encaps1.cpp",
+              "RelativeDocumentMoniker": "chap04_Encaps\\Encaps1.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\chap04_Encaps\\chap04_Encaps\\Encaps1.cpp",
+              "RelativeToolTip": "chap04_Encaps\\Encaps1.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T08:09:20.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
