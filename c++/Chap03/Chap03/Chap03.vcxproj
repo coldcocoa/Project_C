@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Destructor.cpp" />
     <ClCompile Include="FruitSaleSim1.cpp" />
     <ClCompile Include="FruitSaleSim2.cpp" />
+    <ClCompile Include="FruitSaleSim3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

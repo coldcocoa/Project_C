@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Bank4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF914682-A29A-4187-88F2-73987F6D62E8}|Bank4\\Bank4.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Bank4\\Bank4\\Employee1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF914682-A29A-4187-88F2-73987F6D62E8}|Bank4\\Bank4.vcxproj|solutionrelative:Bank4\\Employee1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF914682-A29A-4187-88F2-73987F6D62E8}|Bank4\\Bank4.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Bank4\\Bank4\\Bank4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF914682-A29A-4187-88F2-73987F6D62E8}|Bank4\\Bank4.vcxproj|solutionrelative:Bank4\\Bank4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Bank4\\Bank4\\Employee1.cpp",
+              "RelativeDocumentMoniker": "Bank4\\Employee1.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Bank4\\Bank4\\Employee1.cpp",
+              "RelativeToolTip": "Bank4\\Employee1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T06:09:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Bank4\\Bank4\\Bank4.cpp",
+              "RelativeDocumentMoniker": "Bank4\\Bank4.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Bank4\\Bank4\\Bank4.cpp",
+              "RelativeToolTip": "Bank4\\Bank4.cpp",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAowHQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T05:58:02.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

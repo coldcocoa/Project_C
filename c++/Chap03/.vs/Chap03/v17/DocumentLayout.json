@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2DDB72B2-2B40-4BCC-A979-1D2534149BCA}|Chap03\\Chap03.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDB72B2-2B40-4BCC-A979-1D2534149BCA}|Chap03\\Chap03.vcxproj|solutionrelative:Chap03\\Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDB72B2-2B40-4BCC-A979-1D2534149BCA}|Chap03\\Chap03.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\FruitSaleSim3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DDB72B2-2B40-4BCC-A979-1D2534149BCA}|Chap03\\Chap03.vcxproj|solutionrelative:Chap03\\FruitSaleSim3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DDB72B2-2B40-4BCC-A979-1D2534149BCA}|Chap03\\Chap03.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\FruitSaleSim2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2DDB72B2-2B40-4BCC-A979-1D2534149BCA}|Chap03\\Chap03.vcxproj|solutionrelative:Chap03\\FruitSaleSim2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Destructor.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\Destructor.cpp",
+              "RelativeDocumentMoniker": "Chap03\\Destructor.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\Destructor.cpp",
+              "RelativeToolTip": "Chap03\\Destructor.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T01:06:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FruitSaleSim3.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\FruitSaleSim3.cpp",
+              "RelativeDocumentMoniker": "Chap03\\FruitSaleSim3.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\FruitSaleSim3.cpp",
+              "RelativeToolTip": "Chap03\\FruitSaleSim3.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T00:51:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FruitSaleSim2.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\FruitSaleSim2.cpp",
               "RelativeDocumentMoniker": "Chap03\\FruitSaleSim2.cpp",
               "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\FruitSaleSim2.cpp",
               "RelativeToolTip": "Chap03\\FruitSaleSim2.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAACAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwEQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-26T09:10:21.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FruitSaleSim1.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\c\u002B\u002B\\Chap03\\Chap03\\FruitSaleSim1.cpp",
               "RelativeDocumentMoniker": "Chap03\\FruitSaleSim1.cpp",

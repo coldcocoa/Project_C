@@ -1,2 +1,5 @@
-﻿  FruitSaleSim1.cpp
+﻿  Destructor.cpp
+C:\Users\user\Documents\Projects_C\c++\Chap03\Chap03\Destructor.cpp(14,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\Projects_C\c++\Chap03\Chap03\Destructor.cpp(49,6): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Documents\Projects_C\c++\Chap03\Chap03\Destructor.cpp(47,8): warning C4101: 'strptr' :참조되지 않은 지역 변수입니다.
   Chap03.vcxproj -> C:\Users\user\Documents\Projects_C\c++\Chap03\x64\Debug\Chap03.exe
